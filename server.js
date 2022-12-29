@@ -1,1 +1,1 @@
-console.log("namastey india")
+console.log("namastey")
